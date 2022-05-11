@@ -1,1 +1,1 @@
-get-aduser banana
+powershell.exe -executionpolicy bypass get-aduser banana
